@@ -1,0 +1,49 @@
+<html>
+
+<title>Karate Portal</title>
+
+<head>
+
+<h1>Welcome to Karate Portal!</h1>
+<p>
+Here is where you can learn everything you would want to know about karate.
+</p>
+
+</head>
+
+<body>
+
+<nav> 
+
+<h2> Table of Contents </h2>
+<ol>
+<li>
+<p><a href="#History">History</a></p>
+</li>
+<li>
+<p><a href="#Katas">Katas</a></p>
+</li>
+</ol>
+</nav>
+
+<div id="History">
+<h3>The History of Karate</h3>
+<p>This is a general history of Karate</p>
+
+</div>
+
+<div id="Katas">
+
+<h3>Katas</h3>
+
+<p>There are many Katas in Karate. In Shotokan Karate, there are 26-33 katas. Multiple people are responsible for the creation of them, such as Gichin Funakoshi, Gigo Funakoshi, Anko Itosu, and more. Here is the list of the traditional 26 below</p>
+<p>
+<ol>
+<li><a href="https://www.youtube.com/watch?v=9D2yOzDsW8k">Heian Shodan</a></li> 
+<li><a href="https://www.youtube.com/watch?v=6Hc1NMdjU9U">Heian Nidan</a></li> 
+
+
+</p>
+</div>
+</body>
+</html>
